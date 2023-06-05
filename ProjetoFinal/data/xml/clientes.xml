@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<clientes>
+    <cliente>
+        <nif>111222333</nif>
+        <nome>Nuno Miguel</nome>
+        <morada>Rua Azul</morada>
+        <contato>912111111</contato>
+        <categoria>Ouro</categoria>
+    </cliente>
+    <cliente>
+        <nif>222333444</nif>
+        <nome>Rui Miguel</nome>
+        <morada>Rua Branca</morada>
+        <contato>912222222</contato>
+        <categoria>Prata</categoria>
+    </cliente>
+    <cliente>
+        <nif>333444555</nif>
+        <nome>Joana Goncalves</nome>
+        <morada>Rua Lilás</morada>
+        <contato>912333333</contato>
+        <categoria>Bronze</categoria>
+    </cliente>
+    <cliente>
+        <nif>444555666</nif>
+        <nome>Tiago Barbosa</nome>
+        <morada>Rua Rosa</morada>
+        <contato>912444444</contato>
+        <categoria>Prata</categoria>
+    </cliente>
+    <cliente>
+        <nif>555666777</nif>
+        <nome>Marisa Trindade</nome>
+        <morada>Rua Vermelha</morada>
+        <contato>912555555</contato>
+        <categoria>Bronze</categoria>
+    </cliente>
+</clientes>

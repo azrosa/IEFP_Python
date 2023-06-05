@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<bancos>
+    <banco>
+        <codigo>0269</codigo>
+        <nome>Bankinter</nome>
+    </banco>
+    <banco>
+        <codigo>0019</codigo>
+        <nome>BBVA</nome>
+    </banco>
+    <banco>
+        <codigo>0010</codigo>
+        <nome>BPI</nome>
+    </banco>
+    <banco>
+        <codigo>0035</codigo>
+        <nome>CGD</nome>
+    </banco>
+    <banco>
+        <codigo>0193</codigo>
+        <nome>CTT</nome>
+    </banco>
+    <banco>
+        <codigo>0079</codigo>
+        <nome>EuroBIC</nome>
+    </banco>
+    <banco>
+        <codigo>0033</codigo>
+        <nome>Millenium BCP</nome>
+    </banco>
+    <banco>
+        <codigo>0036</codigo>
+        <nome>Montepio</nome>
+    </banco>
+    <banco>
+        <codigo>0007</codigo>
+        <nome>Novo Banco</nome>
+    </banco>
+    <banco>
+        <codigo>0018</codigo>
+        <nome>Santander</nome>
+    </banco>
+</bancos>

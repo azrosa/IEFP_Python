@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<tipoContas>
+    <tipoConta>
+        <tipo>Corrente</tipo>
+    </tipoConta>
+    <tipoConta>
+        <tipo>Ordem</tipo>
+    </tipoConta>
+    <tipoConta>
+        <tipo>Poupança</tipo>
+    </tipoConta>
+    <tipoConta>
+        <tipo>Prazo</tipo>
+    </tipoConta>
+</tipoContas>
